@@ -92,7 +92,8 @@ loantap-logistic-regression/
 ├── src/            # Modular Python scripts
 ├── outputs/        # Plots, evaluation graphs
 ├── README.md       # This file
-└── requirements.txt
+|── requirements.txt
+└── main.py
 ```
 
 ---
